@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - "Entr"y
+ * main - "Entry"
  * Return:   Always 0 (Succcess)
  */
 int main(void)
