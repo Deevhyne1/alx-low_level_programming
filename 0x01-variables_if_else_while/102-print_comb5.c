@@ -10,7 +10,7 @@ int main(void)
 {
 	int p, q;
 
-	for (p = 0; P <= 98; p++)
+	for (p = 0; p <= 98; p++)
 	{
 
 	for (q = P + 1; q <= 99; q++)
@@ -23,7 +23,7 @@ int main(void)
 	if (p == 98 && q == 99)
 	continue;
 	putchar(',');
-	putchar(' ')
+	putchar(' ');
 	}
 	}
 	putchar('\n');
