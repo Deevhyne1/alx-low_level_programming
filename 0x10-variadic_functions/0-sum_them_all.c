@@ -25,5 +25,5 @@ int sum_them_all(const unsigned int n, ...)
 	/* clean memory reserved for valist */
 	va_end(v);
 
-	return c;
+	return (c);
 }
