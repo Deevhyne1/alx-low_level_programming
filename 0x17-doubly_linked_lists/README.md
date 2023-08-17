@@ -1,1 +1,1 @@
-0x17-doubly_linked_lists
+17-doubly_linked_list
